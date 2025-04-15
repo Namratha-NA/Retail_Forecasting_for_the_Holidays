@@ -6,7 +6,6 @@ This project addresses the challenge of forecasting product demand during major 
 
 The project compares and implements a suite of regression algorithms—ranging from interpretable models like Linear Regression to high-performance models such as XGBoost and Feed-Forward Neural Networks—to uncover nonlinear trends and boost forecast accuracy.
 
----
 
 ## Dataset
 
@@ -16,7 +15,6 @@ The project compares and implements a suite of regression algorithms—ranging f
   - `Weekly_Sales`, `Store`, `Date`, `Holiday_Flag`
   - Economic indicators: `Temperature`, `Fuel Price`, `CPI`, `Unemployment`
 
----
 
 ## Key Highlights
 
@@ -40,8 +38,6 @@ The project compares and implements a suite of regression algorithms—ranging f
   - GridSearchCV for hyperparameter tuning
   - k-Fold Cross-Validation for robustness
 
----
-
 ## Technologies Used
 
 - **Languages**: Python  
@@ -50,15 +46,12 @@ The project compares and implements a suite of regression algorithms—ranging f
 - **Encoding**: Standard Scaler, Binary Encoder, OneHotEncoder  
 - **Validation**: RMSE, R², Cross-Validation, Scatter Plots  
 
----
 
 ## Results & Impact
 
 - Identified XGBoost and Feedforward Neural Networks as top-performing models for retail demand prediction
 - Enabled strategic inventory planning for holidays and promotional events
 - Provided insights into external factors like economic indicators influencing demand
-
----
 
 ## Future Enhancements
 
@@ -67,5 +60,4 @@ The project compares and implements a suite of regression algorithms—ranging f
 - Deploy models into retail ERP systems for dynamic inventory updates  
 - Build a dashboard for live demand visualization  
 
----
 
