@@ -4,7 +4,7 @@
 
 This project addresses the challenge of forecasting product demand during major holiday seasons by leveraging machine learning techniques on Walmart retail data. The solution helps optimize inventory planning and minimize stockouts or overstocking during high-traffic sales periods like Thanksgiving, Diwali, and Christmas.
 
-The project compares and implements a suite of regression algorithms—ranging from interpretable models like Linear Regression to high-performance models such as XGBoost and Feed-Forward Neural Networks—to uncover nonlinear trends and boost forecast accuracy.
+The project compares and implements a suite of regression algorithms ranging from interpretable models like Linear Regression to high-performance models such as XGBoost and Feed-Forward Neural Networks to uncover nonlinear trends and boost forecast accuracy.
 
 
 ## Dataset
@@ -16,7 +16,7 @@ The project compares and implements a suite of regression algorithms—ranging f
   - Economic indicators: `Temperature`, `Fuel Price`, `CPI`, `Unemployment`
 
 
-## Key Highlights
+## Key Features
 
 - **Feature Engineering**:
   - Extracted `year`, `month`, `quarter`, and `season` from the `Date` column
